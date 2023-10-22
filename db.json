@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "name": "Abh",
+      "password": "kjbdkjqwb",
+      "mobileNumber": "1234567890",
+      "email": "bqjssbdskjq",
+      "dateOfBirth": "1981-05-31",
+      "gender": "MALE",
+      "pincode": "800008",
+      "city": "bskjkqbskj",
+      "state": "hshbbwskj",
+      "country": "qshwhjh",
+      "id": 2
+    },
+    {
+      "name": "Abhij",
+      "password": "dbdkjdbk",
+      "mobileNumber": "1234567890",
+      "email": "kjbdkjqbsadkj",
+      "dateOfBirth": "1994-02-09",
+      "gender": "MALE",
+      "pincode": "800008",
+      "city": "lndlqnds",
+      "state": "dgqwgdkjqg",
+      "country": "kjdblkqwhdlqhwk",
+      "id": 3
+    },
+    {
+      "name": "djwhqkjdh",
+      "password": "kjlwqndlkn",
+      "mobileNumber": "1234567890",
+      "email": "dbqjdbwknl",
+      "dateOfBirth": "1999-03-10",
+      "gender": "MALE",
+      "pincode": "800008",
+      "city": "dvjhqdvsjvh",
+      "state": "dbqwkjdbkjbd",
+      "country": "bskbkjwbkjwb",
+      "id": 4
+    },
+    {
+      "name": "Abhijee",
+      "password": "bdkjqbdwq",
+      "mobileNumber": "1234567890",
+      "email": "bdkqwjbdkjqb",
+      "dateOfBirth": "2000-02-17",
+      "gender": "MALE",
+      "pincode": "800008",
+      "city": "vhqvhjvh",
+      "state": "dhqdvjhdvh",
+      "country": "bkjwbqdkjkjd",
+      "id": 5
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "name": "Abh",
+      "password": "123456",
+      "dateOfBirth": "1988-05-11",
+      "gender": "MALE",
+      "mobileNumber": "1234567890",
+      "speciality": "dvkjqdvqkjskjbxkj",
+      "id": 2
+    },
+    {
+      "name": "Abhi",
+      "password": "kgdkjqw",
+      "dateOfBirth": "1996-06-06",
+      "gender": "MALE",
+      "mobileNumber": "1234567890",
+      "speciality": "vkwvdkjqfgsf",
+      "id": 3
+    },
+    {
+      "name": "Abhijeet",
+      "password": "123456",
+      "dateOfBirth": "1999-03-10",
+      "gender": "MALE",
+      "mobileNumber": "1234567890",
+      "speciality": "xajXVJHVXHJVXJHvxJHVZXV",
+      "id": 4
+    },
+    {
+      "name": "Asws",
+      "password": "vhqvshqvs",
+      "mobileNo": "1234567890",
+      "speciality": "dvhdvjdsqjs",
+      "dateOfBirth": "1998-05-15",
+      "gender": "MALE",
+      "id": 5
+    },
+    {
+      "name": "Abhi",
+      "password": "dhdbdbswh",
+      "mobileNo": "1234567890",
+      "speciality": "dwdbwjbjwbswj",
+      "dateOfBirth": "1992-08-03",
+      "gender": "MALE",
+      "id": 6
+    }
+  ],
+  "bookings": [
+    {
+      "appointmentDate": "2023-09-21",
+      "slot": "9 AM to 10 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": 1
+    },
+    {
+      "appointmentDate": "2022-09-13",
+      "slot": "11 AM to 12 PM",
+      "userId": 3,
+      "coachId": 1,
+      "id": 2
+    },
+    {
+      "appointmentDate": "2022-09-13",
+      "slot": "11 AM to 12 PM",
+      "userId": 1,
+      "coachId": 3,
+      "id": 3
+    }
+  ]
+}
